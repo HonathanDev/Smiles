@@ -18,5 +18,8 @@ class ViewController: UIViewController {
         // TEST CODE FOR MAIN PUSH
     }
 
+    override func viewDidDisappear(_ animated: bool) {
+        
+    }
 }
 
